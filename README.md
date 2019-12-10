@@ -15,7 +15,7 @@ Example of what the colorscheme looks like in action:
   <img src="https://raw.githubusercontent.com/SaeedBaig/stone-red-konsole/master/screenshots/example.png" alt="Example of Stone Red Konsole theme"/>
 </p>
 
-### Installation
+## Installation
 1. Download ZIP
 2. Extract
 3. Move the `Stone-Red.colorscheme` file to `~/.local/share/konsole/`
