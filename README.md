@@ -1,4 +1,4 @@
-# stone-red-konsole
+# Stone Red
 A Konsole colorscheme
 
 <p align="center">
