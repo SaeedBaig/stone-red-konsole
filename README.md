@@ -16,6 +16,5 @@ Example of what the colorscheme looks like in action:
 </p>
 
 ## Installation
-1. Download ZIP
-2. Extract
-3. Move the `Stone-Red.colorscheme` file to `~/.local/share/konsole/`
+1. Download the [latest release](https://github.com/SaeedBaig/stone-red-konsole/releases/).
+2. Move the `Stone-Red.colorscheme` file to `~/.local/share/konsole/`
