@@ -2,7 +2,7 @@
 A Konsole colorscheme
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaeedBaig/stone-red-konsole/master/screenshots/preview.png" alt="Preview Stone Red Konsole theme"/>
+  <img src="screenshots/preview.png" alt="Preview Stone Red Konsole theme"/>
 </p>
 <p align="center">
   <sup><sub>
@@ -12,7 +12,7 @@ A Konsole colorscheme
 
 Example of what the colorscheme looks like in action:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaeedBaig/stone-red-konsole/master/screenshots/example.png" alt="Example of Stone Red Konsole theme"/>
+  <img src="screenshots/example.png" alt="Example of Stone Red Konsole theme"/>
 </p>
 
 ## Installation
